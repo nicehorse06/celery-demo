@@ -1,0 +1,9 @@
+*~
+~$*
+.*
+.*/
+*.pyc
+/env/*
+celerybeat-schedule
+!.gitignore
+
