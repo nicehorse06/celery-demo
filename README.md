@@ -1,3 +1,10 @@
+## start
+
+```
+pip -r requirements.txt
+```
+
+
 ## 啟動一般的Celery Worker
 
 ```
