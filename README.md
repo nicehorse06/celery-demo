@@ -1,18 +1,17 @@
-## start
+## 需求安裝
 
 ```
 pip -r requirements.txt
 ```
 
 
-## 啟動一般的Celery Worker
+## 啟動一般的Celery Worker，
 
 ```
 celery -A celery_app worker --loglevel=info
+
+python client.py
 ```
-
-執行 python client.py 觸及 tasks
-
 
 ## 啟動定時的 Celery Worker
 
