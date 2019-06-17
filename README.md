@@ -26,3 +26,6 @@ celery -B -A celery_app worker --loglevel=info
 
 * [Celery - Distributed Task Queue](http://puremonkey2010.blogspot.com/2018/01/python-celery-distributed-task-queue.html)
 * [Using Celery on Heroku](https://devcenter.heroku.com/articles/celery-heroku#celery-and-django)
+
+* [Asynchronous Tasks in Python - Getting Started With Celery](https://www.youtube.com/watch?v=fg-JfZBetpM)
+	* 簡易的介紹celery，broker為rabbit mq
