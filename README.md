@@ -33,3 +33,4 @@ celery -B -A celery_app worker --loglevel=info
 * [celery有什么难理解的?](https://shangliuyan.github.io/2015/07/04/celery%E6%9C%89%E4%BB%80%E4%B9%88%E9%9A%BE%E7%90%86%E8%A7%A3%E7%9A%84/)
 * [First steps with Django](https://docs.celeryproject.org/en/stable/django/first-steps-with-django.html)
 * [Example Django project using Celery](https://github.com/celery/celery/tree/master/examples/django/)
+* [How to use the @shared_task decorator for class based tasks](https://stackoverflow.com/questions/21233089/how-to-use-the-shared-task-decorator-for-class-based-tasks)
