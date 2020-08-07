@@ -31,3 +31,5 @@ celery -B -A celery_app worker --loglevel=info
 	* 簡易的介紹celery，broker為rabbit mq
 * [用 Celery 結合 Redis 或 RabbitMQ = 馬上開始使用 Task Queue (1)](https://www.andretw.com/2013/07/using-celery-right-now-and-more-best-practices-1.html)
 * [celery有什么难理解的?](https://shangliuyan.github.io/2015/07/04/celery%E6%9C%89%E4%BB%80%E4%B9%88%E9%9A%BE%E7%90%86%E8%A7%A3%E7%9A%84/)
+* [First steps with Django](https://docs.celeryproject.org/en/stable/django/first-steps-with-django.html)
+* [Example Django project using Celery](https://github.com/celery/celery/tree/master/examples/django/)
